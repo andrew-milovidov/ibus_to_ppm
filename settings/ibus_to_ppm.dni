@@ -9,7 +9,7 @@ TriggerName=main
 LimitSize=0
 ByteLimit=50
 [DebugChecksum]
-Checksum=2136110427
+Checksum=528751807
 [CallStack]
 ShowArgs=0
 [Disassembly]
@@ -49,6 +49,9 @@ ActionState=1
 [Trace1]
 Enabled=0
 ShowSource=1
+[SfrWindow]
+Show=1 1
+Sort=6 0
 [DataSample]
 LogEnabled=0
 GraphEnabled=0
